@@ -28,9 +28,9 @@ Run the script using the following command:
 - The script will generate a QR code image (new_qr.png) and save the URL to link.txt.
    ```The file has been saved!```
 ## Output
--QR Code Image: new_qr.png
--Text File: link.txt
--Feel free to customize the script to suit your specific needs or integrate it into your projects.
+- QR Code Image: new_qr.png
+- Text File: link.txt
+- Feel free to customize the script to suit your specific needs or integrate it into your projects.
 ## Contributions
 Feel free to clone, fork, or modify the code to suit your needs. Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
