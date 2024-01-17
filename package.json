@@ -1,16 +1,17 @@
 {
-  "dependencies": {
-    "inquirer": "^9.2.12",
-    "qr-image": "^3.2.0"
-  },
-  "name": "qr_gen",
+  "name": "qr_generator",
   "version": "1.0.0",
-  "description": "Creating a QR Code Generator",
-  "main": "index.js",
+  "description": "This Node.js script facilitates the creation of QR codes by capturing user input for a URL. The generated QR code is saved as an image file (`new_qr.png`), and the entered URL is stored in a text file (`link.txt`).",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Aditya Raj",
-  "license": "ISC"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
 }
